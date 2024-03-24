@@ -26,6 +26,9 @@ This repository contains three Jupyter Notebook files aimed at sentiment analysi
 2. **Twitter_Post_Analysis**:
    - ![Example Screenshot](SampleSS/tw1.png)
    - ![Example Screenshot](SampleSS/tw2.png)
+   - ![Example Screenshot](SampleSS/tw3.png)
+   - ![Example Screenshot](SampleSS/tw4.png)
+
 
 3. **Sentiment_Analysis_Using_Facebook**:
    - ![Example Screenshot](SampleSS/fb1.png)
