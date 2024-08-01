@@ -1,4 +1,4 @@
-# Sentiment Analysis of Airlines and Big Tech Companies
+## Sentiment Analysis of Airlines and Big Tech Companies
 
 This repository contains three Jupyter Notebook files aimed at sentiment analysis of airlines companies' sentiment through LinkedIn and Twitter posts, as well as sentiment analysis of big tech companies using Facebook data.
 
